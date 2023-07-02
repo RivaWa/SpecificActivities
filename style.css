@@ -1,0 +1,19 @@
+body{
+  background: #54457F;
+  color: #fff;
+  font-family: Comic Sans MS;
+}
+.card{
+  width: 1200px;
+  display: flex;
+}
+.left{
+  width: 75%;
+}
+.right{
+  width: 25%;
+  text-align: center;
+  background: pink;
+  border-radius: 5px;
+  color: #fff;
+}
